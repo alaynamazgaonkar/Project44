@@ -1,3 +1,6 @@
+//Press "space" to move to the second city
+//Press "v" to move to the third city
+
 var gamestate=1;
 var game=0;
 var s1=0;
